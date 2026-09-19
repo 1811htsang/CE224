@@ -1,0 +1,9 @@
+[submodule "sources/uEDP"]
+	path = sources/uEDP
+	url = https://github.com/1811htsang/uEDP.git
+[submodule "sources/ce201"]
+	path = sources/ce201
+	url = https://github.com/1811htsang/CE201.git
+[submodule "sources/PdM-AF"]
+	path = sources/PdM-AF
+	url = https://github.com/1811htsang/PdM-AF.git
